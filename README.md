@@ -19,7 +19,7 @@
 <img width="949" height="475" alt="image" src="https://github.com/user-attachments/assets/b1d8e73d-a351-42d8-8668-08262b3c94d5" />
 <img width="949" height="440" alt="image" src="https://github.com/user-attachments/assets/c193f7f2-e325-441e-9fe3-7c47bb767a3c" />
 
-<h2><span style="text-decoration: underline;">API endpoints - Brief description of each endpoint with example&nbsp;</span>span></h2>
+<h2><span style="text-decoration: underline;">API endpoints - Brief description of each endpoint with example&nbsp;</span></h2>
 <p>API should now be running locally. Open your web browser or API testing tool and access the following URL:</p>
 <ol>
 <li><strong>POST</strong> - https://localhost:{port}/api/reservations - Create a new reservation</li>
