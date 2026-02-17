@@ -41,5 +41,41 @@
 <li>Implement in-memory caching</li>
 <li>Improve and include more test case. Write test case for all the layers.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
 <li>Improve Logging</li>
-</ol>p>&nbsp;
+</ol>&nbsp;
+<h2>Design decisions - Why you structured the code the way you did</h2>
+<p>&nbsp;<strong data-start="104" data-end="126">Clean Architecture</strong> is a way to organize your project so that it is:</p>
+<ul data-start="177" data-end="289">
+<li data-start="177" data-end="199">
+<p data-start="179" data-end="199">Easy to maintain</p>
+</li>
+<li data-start="200" data-end="218">
+<p data-start="202" data-end="218">Easy to test</p>
+</li>
+<li data-start="219" data-end="239">
+<p data-start="221" data-end="239">Easy to change</p>
+</li>
+<li data-start="240" data-end="289">
+<p data-start="242" data-end="289">Independent of database, UI, and frameworks</p>
+</li>
+<li data-start="424" data-end="451">
+<p data-start="426" data-end="451">Separate responsibilities</p>
+</li>
+<li data-start="452" data-end="474">
+<p data-start="454" data-end="474">Avoid tight coupling</p>
+</li>
+<li data-start="475" data-end="495">
+<p data-start="477" data-end="495">Make code scalable</p>
+</li>
+<li data-start="496" data-end="521">
+<p data-start="498" data-end="521">Follow SOLID principles</p>
+</li>
+<li data-start="522" data-end="569">
+<p data-start="524" data-end="569">Make project professional (Professional structure)</p>
+</li>
+<li data-start="522" data-end="569">
+<p data-start="524" data-end="569">Used in real companies</p>
+</li>
+</ul>
+<h2>&nbsp;</h2>
+<p>&nbsp;</p>
 
