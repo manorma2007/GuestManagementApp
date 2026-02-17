@@ -1,0 +1,6 @@
+@GuestManagementApp_HostAddress = http://localhost:5063
+
+GET {{GuestManagementApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
