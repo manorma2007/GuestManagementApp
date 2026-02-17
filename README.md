@@ -1,7 +1,8 @@
 <h2><span style="text-decoration: underline;">How to run - Setup and run instructions</span></h2>
 <p><strong>Code Setup :</strong></p>
 <ul>
-<li>Clone or download the repository from : <a href="https://github.com/manorma2007/GuestManagementApp.git">https://github.com/manorma2007/GuestManagementApp.git</a></li>
+<li>Clone or download the repository from : 
+  <a href="https://github.com/manorma2007/GuestManagementApp.git">https://github.com/manorma2007/GuestManagementApp.git</a></li>
 <li>Open project in Visual studio<br />Set as startup Project to "GuestManagement.API"</li>
 </ul>
 <p><strong>DB Setup :</strong></p>
@@ -32,14 +33,13 @@
 <h2>What you'd improve - With more time, what would you add/change?</h2>
 <p>If get more time to work on it, there is significant scope of improvement.</p>
 <ol>
-<li>Improve validation for all fields based on conditions and requirements</li>
-<li>If room is already booked for the selected date then we can return error message i.e. :&nbsp;"Room already booked for this date. Please book other room or choose another date".</li>
+<li>Improve validation. Ex. If room is already booked for the selected date then we can return error message i.e. :&nbsp;"Room already booked for this date. Please book other room or choose another date".</li>
 <li>Few more validation can be apply on Check In &amp; Check Out Date. i.e. : checkout date should not be less then Check in date.</li>
 <li>Maintain date time format consistency throw-out the application.</li>
-<li>Improve Exception handling </li>
-<li>Add filtering and shorting</li>
+<li>Improve Exception handling</li>
+<li>Add filtering, shorting paging&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
 <li>Implement in-memory caching</li>
-<li>Improve and include more test case. Write test case for all the layers.</li>
-<li>Enhance documentation</li>
-</ol>
-<p>&nbsp;</p>
+<li>Improve and include more test case. Write test case for all the layers.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li>Improve Logging</li>
+</ol>p>&nbsp;
+
