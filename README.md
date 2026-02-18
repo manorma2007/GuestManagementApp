@@ -21,6 +21,15 @@
 
 <h2><span style="text-decoration: underline;">API endpoints - Brief description of each endpoint with example&nbsp;</span></h2>
 <p>API should now be running locally. Open your web browser or API testing tool and access the following URL:</p>
+<p>Note : 
+Resrvation Status value save and display as below :
+<ul>
+<li>Pending = 0,</li>
+<li>CheckedIn = 1, </li>
+<li>CheckedOut = 2,</li>
+<li>Cancelled = 3</li>
+  </ul>
+</p>
 <ol>
 <li><strong>POST</strong> - https://localhost:{port}/api/reservations - Create a new reservation</li>
   <p>&nbsp;</p>
