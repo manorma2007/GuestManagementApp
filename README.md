@@ -120,6 +120,7 @@ Resrvation Status value save and display as below :
 <li>Improve and include more test case. Write test case for all the layers.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
 <li>Improve Logging and monitoring implementation</li>
 <li>Performence and code quality improvement</li>
+<li>Implement AutoMapper to Removes repetitive code, Easier maintenance more cleaner code, Faster development and Keeps layers separated properly</li>
 </ol>&nbsp;
 <p>&nbsp;</p>
 
