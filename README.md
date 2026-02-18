@@ -106,11 +106,11 @@
 <li>Few more validation can be apply on Check In &amp; Check Out Date. i.e. : checkout date should not be less then Check in date.</li>
 <li>Maintain date time format consistency throw-out the application.</li>
 <li>Improve Exception handling</li>
-<li>Add filtering, shorting paging&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
+<li>Applay shorting, filtering and paging&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
 <li>Implement in-memory caching</li>
 <li>Improve and include more test case. Write test case for all the layers.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</li>
-<li>Improve Logging implementation</li>
-<li>Performence improvement and code quality improvement</li>
+<li>Improve Logging and monitoring implementation</li>
+<li>Performence and code quality improvement</li>
 </ol>&nbsp;
 <p>&nbsp;</p>
 
